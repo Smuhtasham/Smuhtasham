@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -34,18 +33,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smuhtasham&show_icons=true&theme=radical" width="48%" height="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smuhtasham&layout=compact&theme=radical" width="48%" height="400px"/>
-</p>
-
----
-
-
-
 ### 🔗 Connect with Me
 
 <p align="center">
