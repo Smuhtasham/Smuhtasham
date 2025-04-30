@@ -38,19 +38,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smuhtasham&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smuhtasham&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smuhtasham&show_icons=true&theme=radical" width="48%" height="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smuhtasham&layout=compact&theme=radical" width="48%" height="400px"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smuhtasham&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
